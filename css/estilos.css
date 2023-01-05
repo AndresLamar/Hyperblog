@@ -4,6 +4,7 @@ body{
 }
 
 .container {
+    margin: 0 auto;
     width: 70%;
     border-radius: 5px;
     border: 1px solid black;
