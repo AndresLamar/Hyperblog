@@ -24,3 +24,8 @@ body{
 .post {
     padding: 1em;
 }
+
+.footer{
+    background-color: gray ;
+    padding: 20px;
+}
